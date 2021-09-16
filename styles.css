@@ -1,0 +1,50 @@
+*{
+    background-color: gold;
+    /* font-family:'Dancing Script'; */
+    font-weight: 700;
+    text-align: center;
+}
+h1{
+    color: rgb(21, 161, 108);
+    font-size: 80px;
+    background-color: indigo;
+    font-family: 'Dancing Script'
+}
+h2{
+    background-color: deepskyblue;
+}
+
+.profile{
+    background-color: chartreuse;
+    margin: 0px;
+    padding: 20px;
+    padding-left: 30px;
+}
+.blue{
+    color: rgb(209, 18, 145);
+}
+.red{
+    color: rgb(190, 221, 15);
+}
+.hrishi{
+    color: darkgreen;
+    border-color: deeppink;
+    border-style: solid;
+    background-color: gainsboro;
+}
+.hrishi .indu h1,p{
+    color: darkred;
+    border-radius: 20px;
+    border-style: dotted;
+}
+    .hrishi .indu .harshi h1{
+        color: darkslategrey;
+        border-radius: 10px;
+    }
+.pen{
+    background-color: cornsilk;
+    font-size: 20px;
+    padding: 30px;
+    padding-right: 40px;
+    margin: 0px;
+}
